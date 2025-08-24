@@ -16,10 +16,9 @@
 title: "Xiaoyi Feng"
 email: x.feng2@uva.nl
 description: >- 
-# this means to ignore newlines until "baseurl:"
-  PhD Candidate in Neuroscience at University of Amsterdam and Netherlands Institue for Neuroscience.
-twitter_username: username
+  PhD Candidate in Neuroscience at University of Amsterdam and Netherlands Institute for Neuroscience.
 github_username: AlexFeng137
+
 minimal_mistakes_skin: default
 search: true
 
@@ -57,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Xiaoyi Feng"
+  avatar : "/assets/images/bio-photo.jpg"   # 这里可以放你照片的路径，先用默认的
+  bio    : "PhD Candidate in Neuroscience, interested in early life adversity and social behavior."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:x.feng2@uva.nl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/AlexFeng137"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://https://scholar.google.com/citations?user=SvDr2vcAAAAJ&hl=zh-CN"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/筱懿-冯-53385b210/"
 
 footer:
   links:
